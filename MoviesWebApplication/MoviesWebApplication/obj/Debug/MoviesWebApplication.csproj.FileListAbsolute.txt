@@ -1,0 +1,132 @@
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.dll.config
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.pdb
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.exe
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.rsp
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.exe
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.rsp
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.exe
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.xml
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.dll
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.pdb
+C:\Users\Danino\source\repos\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.csproj.AssemblyReference.cache
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.dll.config
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\MoviesWebApplication.pdb
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.exe
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csc.rsp
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.exe
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\csi.rsp
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.exe
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.xml
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.csproj.AssemblyReference.cache
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.dll
+C:\Users\Danino\source\repos\Softwave imdb project\MoviesWebApplication\MoviesWebApplication\obj\Debug\MoviesWebApplication.pdb

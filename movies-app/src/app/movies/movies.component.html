@@ -1,0 +1,34 @@
+<h1>{{title}}</h1>
+
+<div class="search-movie">
+    <form class="form-inline waves-light" mdbWavesEffect>
+        <div class="md-form mt-0">
+            <input class="form-control mr-sm-2" type="text" name="search" [(ngModel)]="searchText" placeholder="search by movie">
+        </div>
+    </form>
+</div>
+
+<br/>
+
+<div class="container">
+    <div class="row">
+            
+            <div class="col-md-3" *ngFor = "let movie of movies | filter: searchText | paginate: { itemsPerPage: 10, currentPage: p }"
+                [routerLink]="['/detail',movie.id]">
+                <div class="card">
+                    <div class="card-header">
+                        <img src={{movie.image}} class="card-img-top" alt="Los Angeles Skyscrapers"/>
+                    </div>
+                    <div class="card-body"> {{movie.title}} </div>
+                    <div class="card-body"> {{movie.fullTitle}} </div>
+                    <div class="card-body"> 
+                        <span class="material-icons">star</span> {{movie.imDbRating}} /10
+                    </div>
+                </div>  
+            </div>
+    </div>
+  </div>
+
+  <pagination-controls (pageChange)="p = $event" class="float-right"></pagination-controls>
+
+  

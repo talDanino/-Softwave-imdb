@@ -1,0 +1,19 @@
+
+<div *ngIf="movie">
+    
+    <div class="card">
+        <div class="card-header"><h4> {{movie.title}} </h4></div>
+        <div class="card-body">
+
+            <p class="card-text"> {{movie.fullTitle}} </p>
+            <p class="card-text">
+                <span class="material-icons">star</span> {{movie.imDbRating}} /10
+            </p>
+            <p class="card-text"> <img src={{movie.image}} > </p>
+            <mat-icon></mat-icon>
+            <p class="card-text">  </p>
+
+        </div>
+    </div>
+
+</div>
